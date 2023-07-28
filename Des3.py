@@ -6,7 +6,7 @@ def calculadora(valor1, valor2, operacao):
         calculo = valor1 - valor2
     elif (operacao == 3):
         calculo = valor1 * valor2
-    elif (operacao == 4):
+    elif (operacao == 4 and valor2 != 0):
         calculo = valor1 / valor2
     return calculo
 
