@@ -1,0 +1,5 @@
+git init
+git config user.name "nome"
+git config user.email "email"
+git add --all
+git commit -m "mensagem"
