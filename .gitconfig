@@ -1,0 +1,2 @@
+[credential "https://github.com"] 
+    helper = /snap/bin/gh auth git-credential
